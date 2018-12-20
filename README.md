@@ -10,4 +10,4 @@ LIRI uses the following commands:
 * `do-what-it-says`
 
 # How does LIRI-Bot work?
-** `concert-this`
+  * `concert-this`
