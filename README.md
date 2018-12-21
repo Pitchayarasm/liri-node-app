@@ -11,4 +11,4 @@ LIRI uses the following commands:
 
 # How does LIRI-Bot work?
   * `concert-this`
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tYd1YXb9TRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/tYd1YXb9TRA
