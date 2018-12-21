@@ -11,9 +11,11 @@ LIRI uses the following commands:
 
 # How does LIRI-Bot work?
   1: `concert-this`
+  
    This will show the concert schedule in your terminal/bash window.
 
   2: `spotify-this-song`
+  
   This will show the following information about the song in your terminal/bash window
 * Artist(s)
 * The song's name
@@ -22,6 +24,7 @@ LIRI uses the following commands:
 * if no song is provided then the program will default to "The Sign" by Ace of Base
 
   3: `movie-this`
+  
   This will output the following information to your terminal/bash window:
 * Title of the movie.
 * Year the movie came out.
@@ -36,4 +39,5 @@ LIRI uses the following commands:
 
    
   4: `do-what-it-says`
+  
   This will take command from random.txt and saved the result in log.txt file
